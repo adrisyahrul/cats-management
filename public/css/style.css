@@ -1,0 +1,20 @@
+.notification {
+    background: #1aee1a;
+    position: fixed;
+    right: 8rem;
+    top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.notification-failed {
+    background: #f82e0f;
+    color: #fff;
+    position: fixed;
+    right: 8rem;
+    top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.text-notif {
+    margin: 0;
+}
